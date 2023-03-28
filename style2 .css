@@ -1,0 +1,25 @@
+#section1 {
+    box-align: center;
+    margin: border 2px;
+    background-color: rgb(166, 159, 67);
+    border-width: 0ch;
+}
+#section2 {
+    box-align: center;
+    margin: border 2px;
+    background-color: rgb(210, 146, 67);
+}
+#section3 {
+    box-align: center;
+    margin: border 2px;
+    background-color: rgb(200, 228, 41);
+}
+
+p {
+    text-indent: 25px;
+    text-decoration: dashed;
+}
+
+h2{
+    text-align: center;
+}
